@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+<img src ='https://github-readme-stats.vercel.app/api?username=stini-gold&&show_icons=true&title_color=c9d1d9&icon_color=4da3fb&text_color=ffffff&exclude_repo=repo3,repo3&bg_color=0d1117&hide_border=True&count_private=true' >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stini-gold&&bg_color=0d1117&title_color=c9d1d9&hide_border=True&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 stini-gold/stini-gold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
